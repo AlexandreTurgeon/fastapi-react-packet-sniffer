@@ -142,7 +142,7 @@ Packet_Sniffer_Project/
 
 MIT License
 
-Copyright (c) 2024 Packet Sniffer Project
+Copyright (c) 2025 Alexandre Turgeon
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
